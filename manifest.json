@@ -1,0 +1,15 @@
+{"dir" : "ltr",
+    "lang" : "no",
+    "name" : "WeTransform",
+    "scope" : "/WeTransform/",
+    "display" : "browser",
+    "start_url" : "https://kleinlennart.github.io/WeTransform/",
+    "short_name" : "WeTransform",
+    "theme_color" : "transparent",
+    "description" : "Challenge your friends to change the world!",
+    "orientation" : "any",
+    "background_color" : "transparent",
+    "related_applications" : "",
+    "prefer_related_applications" : "false",
+    "icons" : [
+    ]}
