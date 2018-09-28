@@ -1,0 +1,31 @@
+li {
+    float: left;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.challenge_title {
+    font-size: 20px;
+    margin-top: -4px;
+}
+
+#challenges {
+    padding-top: 40px;
+    padding-left: 15px;
+}
+
+li .material-icons {
+    display: inline-flex;
+    vertical-align: middle;
+    
+}
+
+.score{
+    margin-top: -4px;
+    font-size: 20px;
+}
